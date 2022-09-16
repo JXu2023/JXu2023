@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jay Xu, a highschool senior at Burnaby Mountain.
+I'm Jay Xu, a highschool senior at Burnaby Mountain with a voracious appetite for learning. When I completed the math and science curriculums at my highschool in grade 9, I studied concurrently at Stanford OHS and other local universities. 
 
 
 <!--
