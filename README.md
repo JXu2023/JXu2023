@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Jay Xu, a highschool senior at Burnaby Mountain.
+
 
 <!--
 **JXu2023/JXu2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
