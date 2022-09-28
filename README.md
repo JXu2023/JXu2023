@@ -3,7 +3,7 @@ I'm Jay Xu, a highschool senior at Burnaby Mountain with a voracious appetite fo
 
 In the 2022 summer intership supervised by [Professor Jian Pei](https://ece.duke.edu/faculty/jian-pei) at Duke University, I conducted a fantastic research project on finding multidimensional Simpson's paradox and obtained a series of interesting insights that have not been reported in literature.  Our findings are reported in the following article.
 
-J. Xu, J. Pei, and Z. Cong: "Finding Multidimensional Simpson's Paradox", https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231689
+J. Xu, J. Pei, and Z. Cong: ["Finding Multidimensional Simpson's Paradox"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231689).
  
 
 <!--
